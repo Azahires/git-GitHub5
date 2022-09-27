@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 "LOCAL"
+=======
 Quest N°5
 
 Je dois taper quelques
